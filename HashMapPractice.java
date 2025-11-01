@@ -11,8 +11,6 @@ import java.util.Scanner;
  * 3. Update value
  * 4. Search by key
  * 5. Display all entries
- * 6. Clear all entries
-
  */
 public class HashMapPractice {
     public static void main(String[] args) {
