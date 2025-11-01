@@ -8,7 +8,7 @@ public class LinkedListPractice {
         LinkedList<String> list = new LinkedList<>();
 
         while (true) {
-            System.out.println("\n===== LinkedList Data Structure Menu =====");
+            System.out.println("\n==== LinkedList Data Structure Menu ====");
             System.out.println("1. Add element");
             System.out.println("2. Remove element");
             System.out.println("3. Display elements");
