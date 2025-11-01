@@ -13,8 +13,6 @@ import java.util.Scanner;
  * 5. Display all entries
  * 6. Clear all entries
  * 7. Exit
- *
- * Author: Josiah Rosell
  */
 public class HashMapPractice {
     public static void main(String[] args) {
