@@ -6,7 +6,7 @@ public class LinkedListPractice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         LinkedList<String> list = new LinkedList<>();
-
+//checked and cleaned code
         while (true) {
             System.out.println("\n==== LinkedList Data Structure Menu ====");
             System.out.println("1. Add element");

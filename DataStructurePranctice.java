@@ -5,7 +5,7 @@ public class DataStructurePranctice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
-
+//test code
         while (true) {
             System.out.println("\n===== Simple Data Structure (ArrayList) =====");
             System.out.println("1. Add element");

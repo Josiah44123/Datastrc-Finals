@@ -2,6 +2,10 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+
+
+        clean implementation of singly linked list
+        
         Scanner sc = new Scanner(System.in);
         SinglyLinkedList list = new SinglyLinkedList();  
         while (sc.hasNext()) {
