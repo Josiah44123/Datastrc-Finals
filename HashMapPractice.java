@@ -10,8 +10,7 @@ import java.util.Scanner;
  * 2. Remove key
  * 3. Update value
  * 4. Search by key
- * 5. Display all entries
- */
+*/
 public class HashMapPractice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
