@@ -7,9 +7,6 @@ import java.util.Scanner;
  *
  * Features:
  * 1. Add key-value pair
- * 2. Remove key
- * 3. Update value
- * 4. Search by key
 */
 public class HashMapPractice {
     public static void main(String[] args) {
