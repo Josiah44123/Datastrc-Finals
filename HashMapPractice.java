@@ -61,7 +61,7 @@ public class HashMapPractice {
 
                 case 3:
                     if (map.isEmpty()) {
-                        System.out.println("The map is empty. Nothing to update.");
+                        System.out.println("The map is empty. Nothing to update bro.");
                         break;
                     }
                     System.out.print("Enter key to update: ");
