@@ -39,7 +39,7 @@ public class HashMapPractice {
                         System.out.println("Key already exists. Use the update option instead.");
                         break;
                     }
-                    System.out.print("Enter value: ");
+                    System.out.print("Enter a value: ");
                     String value = input.nextLine().trim();
                     map.put(key, value);
                     System.out.println("Pair added: {" + key + " = " + value + "}");
