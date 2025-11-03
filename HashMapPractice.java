@@ -47,7 +47,7 @@ public class HashMapPractice {
 
                 case 2:
                     if (map.isEmpty()) {
-                        System.out.println("The map is empty. Nothing to remove.");
+                        System.out.println("The map is empty. There's nothing to remove bro.");
                         break;
                     }
                     System.out.print("Enter key to remove: ");
