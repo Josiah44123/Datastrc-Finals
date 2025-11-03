@@ -53,7 +53,7 @@ public class HashMapPractice {
                     System.out.print("Enter key to remove: ");
                     String keyToRemove = input.nextLine();
                     if (map.remove(keyToRemove) != null) {
-                        System.out.println("Key '" + keyToRemove + "' removed successfully.");
+                        System.out.println("The key '" + keyToRemove + "' removed successfully.");
                     } else {
                         System.out.println("Key not found.");
                     }
