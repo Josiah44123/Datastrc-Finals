@@ -2,12 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * A simple program demonstrating HashMap operations in Java.
- *
- * Features:
- * 1. Add key-value pair
-*/
+
 public class HashMapPractice {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
