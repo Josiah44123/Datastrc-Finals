@@ -23,7 +23,7 @@ public class HashMapPractice {
             try {
                 choice = Integer.parseInt(input.nextLine());
             } catch (NumberFormatException e) {
-                System.out.println("Invalid input. Please enter a number (1–7).");
+                System.out.println("Invalid input. Please enter a number (1-..6,7).");
                 continue;
             }
 
